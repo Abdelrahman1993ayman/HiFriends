@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HiFriends</string>
+    <string name="Send">SEND</string>
+    <string name="Load">Load</string>
+    <string name="Hima">HIMA</string>
+    <string name="Abdo">ABDO</string>
+    <string name="input">Input</string>
+
+</resources>
